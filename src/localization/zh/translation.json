@@ -1,0 +1,252 @@
+{
+  "header": {
+    "title": "欢迎来到我们的商店",
+    "subtitle": "在这里找到最好的产品"
+  },
+  "buttons": {
+    "addToCart": "加入购物车",
+    "viewDetails": "查看详情"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "折叠背包，可容纳 15 台笔记本电脑",
+      "price": 109.95,
+      "description": "适合日常使用和森林漫步的完美背包。将您的笔记本电脑（最大 15 英寸）存放在软垫套中，方便您的日常使用",
+      "category": "男装",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "男士休闲高级修身 T 恤 ",
+      "price": 22.3,
+      "description": "修身款式，撞色插肩长袖，三扣亨利门襟，重量轻，面料柔软，透气舒适。圆领纯色缝制衬衫经久耐用，非常适合休闲时尚服装和顽固的棒球迷。亨利风格圆领包括一个三扣衣襟。",
+      "category": "男装",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "男士棉夹克",
+      "price": 55.99,
+      "description": "适合春/秋/冬的优质外套，适合多种场合，例如工作、远足、露营、登山/攀岩、骑自行车、旅行或其他户外活动。送给您或您的家人的不错的礼物选择。在这个感恩节或圣诞节，向父亲、丈夫或儿子表达温暖的爱。",
+      "category": "男装",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "男士休闲修身款",
+      "price": 15.99,
+      "description": "屏幕上的颜色与实际颜色可能略有不同。 / 请注意，体型因人而异，因此，应在下面的产品说明中查看详细的尺码信息。",
+      "category": "男装",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "约翰·哈迪 女士传奇 金银龙站链手链",
+      "price": 695,
+      "description": "在我们的传奇系列中 的灵感来自保护海洋珍珠的神话水龙。朝内佩戴可获得爱和丰富，朝外佩戴可得到保护。",
+      "category": "首饰",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "纯金娇小微密镶 ",
+      "price": 168,
+      "description": "保证满意。任何订单 30 天内退货或换货。由美国  设计和销售。保证满意。 30 天内退回或换货任何订单。",
+      "category": "首饰",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "白金镀金公主",
+      "price": 9.99,
+      "description": "为她打造的经典婚礼订婚单石钻石定情戒指。订婚、婚礼、周年纪念日、情人节等礼物，让您的爱情更加美好……",
+      "category": "首饰",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "穿孔猫头鹰镀玫瑰金不锈钢双",
+      "price": 10.99,
+      "description": "镀玫瑰金双喇叭形隧道塞耳环。由 316L 不锈钢制成",
+      "category": "首饰",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "便携式外置硬盘 - 3.0 ",
+      "price": 64,
+      "description": "C兼容性 快速数据传输 提高 性能 高容量；适用于 的兼容性格式化；其他操作系统可能需要重新格式化；兼容性可能会因用户的硬件配置和操作系统而异",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "闪迪 1 待定 内置",
+      "price": 109,
+      "description": "轻松升级，实现更快的启动、关闭、应用程序加载和响应 与 5400 英寸硬盘相比；基于已发布的规格和使用 PCMark vantage 分数的内部基准测试） 提升突发写入性能，使其成为典型 PC 工作负载的理想选择性能和可靠性的完美平衡读/写速度高达 535MB/s/450MB/s（基于内部测试 性能可能会因驱动器容量、主机设备、操作系统和应用程序而异。",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "缓存性能提升",
+      "price": 109,
+      "description": "采用 3D 闪存来提供高传输速度 卓越的传输速度可实现更快的启动速度并提高整体系统性能。先进的 SLC 缓存技术可提升性能并延长使用寿命 7 毫米超薄设计，适用于超极本和超薄笔记本电脑。支持 和（错误检查和纠正），以提供优化的性能和增强的可靠性。",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "游戏硬盘可与 4 便携式外置硬盘配合使用",
+      "price": 114,
+      "description": "扩展您的 PS4 游戏体验，随时随地畅玩 设置快速简便 时尚设计，高容量，3 年制造商有限保修",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "宏碁 SB220Q bi 21.5 英寸全高清 (1920 x 1080) 超薄",
+      "price": 599,
+      "description": "21. 5 英寸全高清 (1920 x 1080) 宽屏 显示屏和 免费同步技术。不兼容  安装刷新率：75Hz - 使用 HDMI 端口零帧设计 |超薄| 4ms 响应时间 |  面板 长宽比 - 16: 9。 支持颜色 - 16。 700 万种颜色。亮度 - 250 尼特 倾斜角度 -5 度至 15 度。水平视角-178度。垂直视角-178度75赫兹",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "三星 49 英寸 CHG90 144Hz 曲面游戏显示器 (LC49HG90DMNXZA) – 超超宽屏 ",
+      "price": 999.99,
+      "description": "49 英寸超级超宽 32:9 曲面游戏显示器，采用双 27 英寸并排屏幕量子点 (QLED) 技术、 支持和工厂校准，提供极其逼真和准确的色彩和对比度 144HZ 高刷新率和 1ms 超快响应时间消除运动模糊、重影并减少输入延迟",
+      "category": "电子产品",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "女式三合一滑雪夹克冬季外套",
+      "price": 56.99,
+      "description": "注意：夹克为美国标准尺码，请选择您平时穿着的尺码 材质：100% 涤纶；可拆卸衬里面料：保暖羊毛。可拆卸功能内衬：亲肤、轻便、保暖。立领内衬夹克，让您在寒冷的天气里保持温暖。拉链口袋：2 个拉链插手口袋、2 个胸前拉链口袋（足以存放卡片或钥匙）和 1 个内部隐藏口袋。拉链插手口袋和隐藏口袋可确保您的物品安全。人性化设计：可调节、可拆卸的兜帽和可调节袖口，防风防水，佩戴舒适。 3 合 1 可拆卸设计提供更多便利，您可以根据需要将外套和内衣分开，或一起穿着。适合不同季节，帮助您适应不同气候",
+      "category": "男装",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "女式可拆卸连帽人造皮革机车夹克",
+      "price": 29.95,
+      "description": "100% 聚氨酯（外壳） 100% 聚酯纤维（衬里） 75% 聚酯纤维 25% 棉（毛衣），时尚舒适的人造皮革材料 / 正面 2 个口袋，二合一连帽牛仔风格人造皮夹克，腰部纽扣细节 /侧面有细节缝线，只能手洗/不可漂白/悬挂晾干/不可熨烫",
+      "category": "wo男装",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "雨衣女式风衣条纹登山雨衣",
+      "price": 39.99,
+      "description": "轻便，适合旅行或休闲穿着 --- 长袖，带帽，可调节抽绳腰部设计。纽扣和拉链前开合雨衣，全条纹衬里，雨衣有 2 个侧袋，尺寸适合容纳各种物品，它覆盖臀部，风帽宽敞但不过分。附有棉质衬里风帽可调节抽绳赋予它真实的风格外观。",
+      "category": "女装",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ 女式纯色短袖船领 ",
+      "price": 9.85,
+      "description": "95% 人造丝 5% 氨纶，美国制造或进口，不可漂白，轻质面料，弹力极佳，穿着舒适，袖子和领口罗纹/下摆双缝线",
+      "category": "女装",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "女式短袖保湿",
+      "price": 7.95,
+      "description": "100% 涤纶，机洗，100% 阳离子涤纶双面布，机洗和预缩，非常合身，轻盈、宽敞、高度透气，吸湿排汗面料有助于保持水分，柔软轻质面料，舒适 V 领，修身合身，打造时尚、更加女性化的轮廓，增加舒适度",
+      "category": "女装",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "女式 T 恤休闲棉质短裤",
+      "price": 12.99,
+      "description": "95% 棉，5% 氨纶，特点：休闲、短袖、字母印花、V 领、时尚 T 恤，面料柔软，有一定的弹性。场合：休闲/办公室/海滩/学校/家庭/街道。季节：春季、夏季、秋季、冬季。",
+      "category": "女装",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ]
+}
