@@ -28,7 +28,7 @@ interface Translations {
   };
   products: Product[];
 }
-
+// Products Function localization
 const DataComponent: React.FC = () => {
   const [language, setLanguage] = useState<'en' | 'zh-CN'>('en');
 
@@ -36,7 +36,7 @@ const DataComponent: React.FC = () => {
     en: enTranslations,
     'zh-CN': zhCNTranslations,
   };
-
+// Heading Change Function
   const currentTranslations = translations[language];
 
   const handleLanguageChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
